@@ -1,0 +1,9 @@
+1)Un lenguaje de marcado que define la estructura de tu contenido
+
+2) Es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML
+
+3)Solo en el cliente
+
+4)una biblioteca multiplataforma de JavaScript.
+
+
