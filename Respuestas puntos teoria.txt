@@ -6,5 +6,4 @@
 
 4)una biblioteca multiplataforma de JavaScript.
 
-5)La estructura, contenido y presentación de una página web
 
